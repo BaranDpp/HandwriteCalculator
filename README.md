@@ -4,9 +4,9 @@ Bu proje, kullanıcının ekrana çizdiği el yazısı matematik işlemlerini (t
 
 ## 🚀 Özellikler
 * **Derin Öğrenme:** Kendi eğittiğim CNN modeli ile el yazısı rakam ve sembolleri tanıma.
-* **Görüntü İşleme:** OpenCV ile kontur analizi ve gürültü temizleme.
-* **İnteraktif Arayüz:** Streamlit ile çizilebilir kanvas.
-* **Gerçek Zamanlı Debug:** Modelin arka planda ne gördüğünü gösteren analiz paneli.
+* **Görüntü İşleme:** OpenCV ile kontur analizi ve gürültü temizleme
+* **İnteraktif Arayüz:** Streamlit ile çizilebilir kanvas
+* **Gerçek Zamanlı Debug:** Modelin arka planda ne gördüğünü gösteren analiz paneli
 
 ## 🛠️ Teknolojiler
 * Python 3.x
