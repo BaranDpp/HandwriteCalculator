@@ -19,8 +19,10 @@ Bu proje, kullanıcının ekrana çizdiği el yazısı matematik işlemlerini (t
 
 1. Projeyi klonlayın:
    git clone [https://github.com/KULLANICI_ADIN/AI-Handwritten-Calculator.git](https://github.com/KULLANICI_ADIN/AI-Handwritten-Calculator.git)
+
 Gerekli kütüphaneleri yükleyin:
 pip install -r requirements.txt
+
 Uygulamayı başlatın:
 streamlit run app.py
 
